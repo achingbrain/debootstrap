@@ -8,6 +8,8 @@ When creating docker images and electron apps it's not useful to have some modul
 
 ## How?
 
+Run in one of your packages:
+
 ```
 $ debootstrap
 ```
